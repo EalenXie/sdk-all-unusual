@@ -10,7 +10,7 @@ $\color{＃4AEE45}{天之道，损有余而补不足。人之道则不然，损�
 
 ## Introduce
 
-SDK-ALL-UNUSUAL 是项目[SDK-ALL]([https://github.com/EalenXie/sdk-all) 的延续，是一些相对没有完善的sdk内容。
+SDK-ALL-UNUSUAL 是项目[SDK-ALL](https://github.com/EalenXie/sdk-all) 的延续，是一些相对没有完善的sdk内容。
 
 > 💾 设计目标和应用场景
 >
