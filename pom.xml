@@ -23,6 +23,7 @@
         <module>kaufland-sdk</module>
         <module>pingpong-sdk</module>
         <module>manomano-sdk</module>
+        <module>sellersprite-sdk</module>
     </modules>
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
